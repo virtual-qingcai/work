@@ -3,25 +3,13 @@
 ## Membres de l'Équipe
 
 ### 1. Alex 刘俊 (ID: 1201024050)
-   - **Rôle :** Développeur
-   - **Responsabilités :**
-     - Implémentation de la classe `People` dans le package `people.management.web.data`.
-     - Contribution à la conception et à la mise en œuvre de la partie `people-service`.
-     - Participer à la gestion des informations liées aux "People".
+
 
 ### 2. Marcel 赵智元 (ID: 1201024051)
-   - **Rôle :** Développeur
-   - **Responsabilités :**
-     - Implémentation de la classe `PeopleResource` dans le package `people.management.web.resource`.
-     - Collaboration à la conception et à l'implémentation de la partie `people-service`.
-     - Participation à la création et à la gestion des services Web liés aux "People".
+ 
 
 ### 3. Enzo 吴鸣之 (ID: 1201024055)
-   - **Rôle :** Développeur
-   - **Responsabilités :**
-     - Contribution à l'implémentation de la classe `PeopleService` pour la gestion des informations sur les "People".
-     - Participation à la conception et à la réalisation de la partie `people-service`.
-     - Intégration et test de la fonctionnalité de prédiction d'âge avec l'API externe.
+  
 
 ## Objectif Global
 Notre projet a pour objectif la conception d'un système de prédiction d'âge. Ce système analyse les noms des individus via un serveur local et prédit leur âge.
