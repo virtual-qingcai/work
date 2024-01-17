@@ -8,7 +8,7 @@
 ### 2. Marcel 赵智元 (ID: 1201024051)
  
 
-### 3. Enzo 吴鸣之 (ID: 1201024055)
+### 3. Enzo 吴鸣之 (ID: 1201024056)
   
 
 ## Objectif Global
@@ -40,7 +40,7 @@ Notre code se divise en deux parties : `people-service` et `people-client`.
    private static String agePredictionUrl = "https://age-prediction.p.rapidapi.com/";
    ```
 
-3. Définition de la clé API nécessaire pour accéder à l'API de prédiction d'âge. Remarque : Remplacez cette clé par votre clé API réelle.
+3. Définition de la clé API nécessaire pour accéder à l'API de prédiction d'âge.
    ```java
    private static String apiKey = "ce29177fc8msh21571b40ebdf7a9p160914jsna39882ebc4c6";
    ```
